@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest>
+  <identifier>The_Many_Pews</identifier>
+  <version>1.0.0.0</version>
+  <suggests>
+    <li>The_Many_Pews_CE</li>
+  </suggests>
+  <showCrossPromotions>true</showCrossPromotions>
+</Manifest>
